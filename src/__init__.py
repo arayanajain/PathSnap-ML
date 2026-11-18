@@ -1,0 +1,1 @@
+"""Core PathSnap package."""
